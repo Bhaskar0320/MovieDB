@@ -1,0 +1,50 @@
+/* pages/styles/movies.css */
+.movies-page {
+    padding-top: 30px;
+    padding-bottom: 50px;
+  }
+  
+  .search-box {
+    margin-bottom: 30px;
+  }
+  
+  .search-box .form-control {
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding-left: 20px;
+    font-size: 1rem;
+  }
+  
+  .search-box .btn {
+    height: 50px;
+    padding: 0 25px;
+    border-radius: 8px;
+  }
+  
+  .genre-filter {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+  }
+  
+  .genre-filter h5 {
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #444;
+  }
+  
+  .genre-filter .btn {
+    margin-bottom: 8px;
+    border-radius: 20px;
+    padding: 5px 15px;
+    font-size: 0.85rem;
+    border: 1px solid #ddd;
+  }
+  
+  .genre-filter .btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+  }

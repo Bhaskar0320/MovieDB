@@ -1,0 +1,15 @@
+/* components/styles/movieList.css */
+.movie-list {
+    padding: 20px 0;
+  }
+  
+  .movie-list .row {
+    margin-right: -10px;
+    margin-left: -10px;
+  }
+  
+  .movie-list .row > [class*='col-'] {
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+  }
